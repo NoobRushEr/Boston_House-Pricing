@@ -2,10 +2,10 @@
 
 ## Software and Tools Requirements
 
-1. [Github Account]
-2. [Heroku Account]
-3. [Vs Code IDE]
-4. [GIT CLI]
+1. [Github Account](www.github.com)
+2. [Heroku Account](www.heroku.com)
+3. [Vs Code IDE](https://code.visualstudio.com/)
+4. [GIT CLI](https://git-scm.com/)
 
 create a new environment
 
