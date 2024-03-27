@@ -1,7 +1,7 @@
 scikit-learn
 pandas
-django
 Flask
 numpy
 matplotlib
 seaborn
+gunicorn
